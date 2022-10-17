@@ -8,7 +8,8 @@ Kaggle Link: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot
 ### Aim
 The project aim was to determine whether online bids made on an auction site were from humans or bots. Analyzed more than 7 million online auction bids and trained an ensemble model by performing feature engineering in Python to classify the bids as done by humans or robots.
 
-Achieved a 0.87067 score.
+Private Score: 0.87067
+Public Score: 0.86828
 
 ## Tech Stack 
 * Python
