@@ -1,7 +1,7 @@
 # Facebook Human or Robot Kaggle Competition
 TLDR: Machine Learning project to determine whether online bids made on an auction site were from humans or bots.
 
-Kaggle Link: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot
+Kaggle Link: https://www.kaggle.com/competitions/ai200-dec-2021-human-or-bot/overview
 
 ## Project Particulars
 
